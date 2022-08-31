@@ -1,7 +1,7 @@
 파이썬 어드벤 시작
 
-1.가상환경 비활성화
-conda deactivate
+1.가상환경 비활성화ghkgkgjdklfgjsldfkg
+conda deactivate	d;lfkkg;lksdf;lgk
 
 2.가상환경바꾸기
    파이썬을 파이썬 어드밴스트로 바꿈 
