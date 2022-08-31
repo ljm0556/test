@@ -1,14 +1,14 @@
 파이썬 어드벤 시작
 
 1.가상환경 비활성화ghkgkgjdklfgjsldfkg
-conda deactivate	d;lfkkg;lksdf;lgk
+conda deactivate	d;lfkkg;lksdf;lgk	
 
-2.가상환경바꾸기
+2.가상환경바꾸기라고 한다 
    파이썬을 파이썬 어드밴스트로 바꿈 
 conda create -n env_pyadvanced python=3.9.6
 conda create -n env_pyadvanced
 **폴더이름= pyadvanced**
-
+안녕하세요
 1.Numpy 
 pip install numpy
 [1 2 3 4]   , 가 없다
