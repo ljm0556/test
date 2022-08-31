@@ -3,15 +3,19 @@
 1.가상환경 비활성화ghkgkgjdklfgjsldfkg
 conda deactivate	d;lfkkg;lksdf;lgk	
 
+이준민 테스트
 2.가상환경바꾸기라고 한다 
    파이썬을 파이썬 어드밴스트로 바꿈 
 conda create -n env_pyadvanced python=3.9.6
 conda create -n env_pyadvanced
 **폴더이름= pyadvanced**
 안녕하세요
+이준민 테스트
+
 1.Numpy 
 pip install numpy
 [1 2 3 4]   , 가 없다
+이준민 테스트
 버전확인-=      np.__version__-
 차원확인=  a.ndim
 
